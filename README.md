@@ -1,6 +1,9 @@
 # matrix_math
 Math Operations On Matrices
 
+Note: This is just the start of the list more functionality will be added in the future.
+
+
 Public Function List:
   These function all modify the current matrix object.
 1) construct($rows, $cols) - Creates Matrix.
